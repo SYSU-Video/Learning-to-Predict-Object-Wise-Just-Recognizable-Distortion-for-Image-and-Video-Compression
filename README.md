@@ -1,11 +1,11 @@
 # Learning to Predict Object-Wise Just Recognizable Distortion for Image and Video Compression
 
-![GitHub stars](https://img.shields.io/github/stars/JunqiLiu-SYSU/DT-JRD?style=social)
+![GitHub stars](https://img.shields.io/github/stars/SYSU-Video/Learning-to-Predict-Object-Wise-Just-Recognizable-Distortion-for-Image-and-Video-Compression?style=social)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)
 [![Paper](https://img.shields.io/badge/Paper-TMM'23-b31b1b.svg)](https://ieeexplore.ieee.org/document/10349945)
-![License](https://img.shields.io/github/license/JunqiLiu-SYSU/DT-JRD)
-![Last commit](https://img.shields.io/github/last-commit/JunqiLiu-SYSU/DT-JRD)
+![License](https://img.shields.io/github/license/SYSU-Video/Learning-to-Predict-Object-Wise-Just-Recognizable-Distortion-for-Image-and-Video-Compression)
+![Last commit](https://img.shields.io/github/last-commit/SYSU-Video/Learning-to-Predict-Object-Wise-Just-Recognizable-Distortion-for-Image-and-Video-Compression)
 
 Learning to Predict Object-Wise Just Recognizable  Distortion for Image and Video Compression \
 [[paper]](https://ieeexplore.ieee.org/document/10349945) [[code]](https://github.com/SYSU-Video/Learning-to-Predict-Object-Wise-Just-Recognizable-Distortion-for-Image-and-Video-Compression) \
