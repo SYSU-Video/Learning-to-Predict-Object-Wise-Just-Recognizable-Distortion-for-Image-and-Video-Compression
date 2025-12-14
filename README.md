@@ -13,7 +13,10 @@ Learning to Predict Object-Wise Just Recognizable  Distortion for Image and Vide
 *IEEE Transactions on Multimedia (TMM), 2023*
 
 ## Abstract
+<p align="justify">
 Just Recognizable Distortion (JRD) refers to the minimum distortion that notably affects the recognition performance of a machine vision model. If a distortion added to images or videos falls within this JRD threshold, the degradation of the recognition performance will be unnoticeable. Based on this JRD property, it will be useful to Video Coding for Machine (VCM) to minimize the bit rate while maintaining the recognition performance of compressed images. In this study, we propose a deep learning-based JRD prediction model for image and video compression. We first construct a large image dataset of Object-Wise JRD (OW-JRD) containing 29 218 original images with 80 object categories, and each image was compressed into 64 distorted versions using Versatile Video Coding (VVC). Secondly, we analyze the distribution of the OW-JRD, formulate JRD prediction as binary classification problems and propose a deep learning-based OW-JRD prediction framework. Thirdly, we propose a deep learning based binary OW-JRD predictor to predict whether an image object is still detectable or not under different compression levels. Also, we propose an error-tolerance strategy that corrects misclassifications from the binary classifier. Finally, extensive experiments on large JRD image datasets demonstrate that the Mean Absolute Errors (MAEs) of the predicted OW-JRD are 4.90 and 5.92 on different numbers of the classes, which is significantly better than the state-of-the-art JRD prediction model. Moreover, ablation studies on deep network structures, object sizes, features, data padding strategies and image/video coding schemes are presented to validate the effectiveness of the proposed JRD model.
+</p>
+  
 <p align="center">
   <img src="framework.png" alt="Framework Overview" width="700"/>
 </p>
